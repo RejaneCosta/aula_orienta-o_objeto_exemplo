@@ -1,2 +1,2 @@
-# aula_orienta-o_objeto_exemplo
+# aula_orientacao_objeto_exemplo
 Exercícios referente a aula de orientação a objetos (Git)
